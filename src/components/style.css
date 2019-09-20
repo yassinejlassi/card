@@ -1,0 +1,48 @@
+.titre{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.App{
+    
+    background: blue;
+    border-radius: 10px;
+    height: 300px;
+    width: 500px  ;
+}
+.number{
+    color: yellow
+
+}
+.CC{
+    color: white;
+}
+.pic{
+    height: 100px;
+    width: 80px;
+}                           
+.picture{
+    display: flex;
+    justify-content: flex-end;
+    width: 99%;
+    height: 10px;
+
+}
+.validity{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    color: white;
+    height: 10px;
+}
+.divv{
+    margin-left: 125px;
+    text-align: right;
+    
+
+}
+.cardholder{
+    color: white;
+}
+.a{display: flex}
